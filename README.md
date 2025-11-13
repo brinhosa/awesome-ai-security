@@ -306,7 +306,7 @@ This repository covers:
 | [Simon Willison's Blog](https://simonwillison.net) | Simon Willison | Prompt injection & agent security. |
 | [Lakera AI Blog](https://www.lakera.ai/blog) | Lakera Team | GenAI security thought leadership. |
 | [Anthropic Transparency Hub](https://www.anthropic.com/transparency) | Anthropic | System cards & red team reports. |
-| [OpenAI Red Teaming Network](https://openai.com/red-teaming-network/) | OpenAI | Red teaming docs & invites. |
+| [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/) | OpenAI | Red teaming docs & invites. |
 | [MLSecOps Community](https://mlsecops.com/) | Community | Best practices & community. |
 | [OWASP GenAI Security Project](https://genai.owasp.org/) | [OWASP](https://owasp.org) | Global community-driven initiative for GenAI security guidance and resources. |
 | [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions/) | [OWASP](https://owasp.org) | Landmark guide outlining key risks and critical controls for securing LLMs and GenAI applications. |

@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <img src="banner1.svg" width="100%" alt="Awesome AI Security banner">
+  <img src="banner_.svg" width="100%" alt="Awesome AI Security banner">
 </p>
 
 <h1 align="center">Awesome AI Security</h1>
@@ -17,6 +17,7 @@
   <a href="https://github.com/brinhosa/awesome-ai-security/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/github/last-commit/brinhosa/awesome-ai-security?logo=github" alt="Last Commit">
 </p>
+[![Star History](https://api.star-history.com/svg?repos=brinhosa/awesome-ai-security&type=Date)](https://star-history.com/#brinhosa/awesome-ai-security&Date)
 
 <div align="center">
   <a href="#about">ℹ️ About</a> •

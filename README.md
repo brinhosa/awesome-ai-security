@@ -17,7 +17,6 @@
   <a href="https://github.com/brinhosa/awesome-ai-security/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <img src="https://img.shields.io/github/last-commit/brinhosa/awesome-ai-security?logo=github" alt="Last Commit">
 </p>
-[![Star History](https://api.star-history.com/svg?repos=brinhosa/awesome-ai-security&type=Date)](https://star-history.com/#brinhosa/awesome-ai-security&Date)
 
 <div align="center">
   <a href="#about">ℹ️ About</a> •
@@ -72,7 +71,7 @@ This repository covers:
 | [LLMFuzzer](https://github.com/mnns/LLMFuzzer) | [mnns](https://github.com/mnns) | Fuzzing framework for LLM API integrations. |
 | [promptfoo](https://www.promptfoo.dev) | promptfoo | Dynamic adversarial probes and context-aware test cases. |
 | [LLM Warden](https://github.com/jackhhao/llm-warden) | [jackhhao](https://github.com/jackhhao) | Simple jailbreak detection (Hugging Face model). |
-| [Vigil](https://github.com/deadbits/vigil) | [deadbits](https://github.com/deadbits) | Modular scanners (vectors, YARA, transformers) via lib & REST API. |
+| [Vigil](https://github.com/deadbits/vigil-llm) | [deadbits](https://github.com/deadbits) | Modular scanners (vectors, YARA, transformers) via lib & REST API. |
 | **New:** [picklescan](https://github.com/mmaitre314/picklescan) | [mmaitre314](https://github.com/mmaitre314) | Detects malicious code in Python pickle model files. |
 | **New:** [ModelScan](https://github.com/protectai/modelscan) | [Protect AI](https://github.com/protectai) | Multi-format ML model file scanner (pickle, SavedModel, etc.). |
 | **New:** [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) | Yupei Liu et al. | Toolkit/benchmark for prompt injection attacks/defenses. |

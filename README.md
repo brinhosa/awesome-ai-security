@@ -276,9 +276,9 @@ This repository covers:
 | Name | Host/Author | Description |
 | ---- | ----------- | ----------- |
 | [AI Security Podcast](https://www.aisecuritypodcast.com/) | Ashish Rajan & Caleb Sima | Vendor-neutral AI security conversations. |
-| [The AI Fix Podcast](https://theaifix.com/) | Graham Cluley & Mark Stockley | Deepfakes, policy, and security. |
+| [The AI Fix Podcast](https://theaifix.show/) | Graham Cluley & Mark Stockley | Deepfakes, policy, and security. |
 | [Smashing Security](https://www.smashingsecurity.com/) | Graham Cluley & Carole Theriault | Weekly infosec pod with AI topics. |
-| [Resilient Cyber Newsletter](https://resilientcyber.io/) | Chris Hughes | AI, supply chain, cloud, AppSec. |
+| [Resilient Cyber Newsletter](https://www.resilientcyber.io/) | Chris Hughes | AI, supply chain, cloud, AppSec. |
 
 ---
 

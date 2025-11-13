@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Awesome AI Security banner">
+  <img src="banner.svg" width="100%" alt="Awesome AI Security banner">
 </p>
 
 <h1 align="center">Awesome AI Security</h1>

@@ -141,7 +141,7 @@ This repository covers:
 | Author(s) | Publisher | Name | Description |
 | ----------- | --------- | -----| ----------- |
 | Various | Springer | [Large Language Models in Cybersecurity: Threats, Exposure and Mitigation](https://link.springer.com/book/10.1007/978-3-031-54827-7) | Open-access guide (2024). |
-| Various | Springer | [Generative AI Security: Theories and Practices](https://link.springer.com/book/10.1007/978-981-97-5443-8) | GenAI impacts across security (2024). |
+| Various | Springer | [Generative AI Security: Theories and Practices](https://link.springer.com/book/10.1007/978-3-031-54252-7) | GenAI impacts across security (2024). |
 | Various | Springer | [AI-Driven Cybersecurity and Threat Intelligence](https://link.springer.com/book/10.1007/978-3-031-15030-2) | AI x security (2024). |
 | Steve Wilson | O'Reilly | [Developer's Playbook for LLM Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) | Practical LLM AppSec (2024). |
 

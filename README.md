@@ -49,14 +49,14 @@
 The **awesome-ai-security** repository is a community-driven collection of AI Security, LLM Security, and Prompt Injection tools and resources. The focus is on open-source tools and resources that benefit the community.
 
 This repository covers:
-- Large Language Model (LLM) security testing and vulnerability assessment  
-- Prompt injection attacks and defenses  
-- AI red teaming and adversarial testing  
-- Jailbreak detection and prevention  
-- Model poisoning and extraction attacks  
-- Hallucination detection and prevention  
-- AI application security best practices  
-- MLSecOps and LLMOps security  
+- Large Language Model (LLM) security testing and vulnerability assessment
+- Prompt injection attacks and defenses
+- AI red teaming and adversarial testing
+- Jailbreak detection and prevention
+- Model poisoning and extraction attacks
+- Hallucination detection and prevention
+- AI application security best practices
+- MLSecOps and LLMOps security
 - Model Context Protocol (MCP) security
 - AI supply chain security
 
@@ -79,13 +79,12 @@ This repository covers:
 | [picklescan](https://github.com/mmaitre314/picklescan) | [mmaitre314](https://github.com/mmaitre314) | Detects malicious code in Python pickle model files. |
 | [ModelScan](https://github.com/protectai/modelscan) | [Protect AI](https://github.com/protectai) | Multi-format ML model file scanner (pickle, SavedModel, etc.). |
 | [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection) | Yupei Liu et al. | Toolkit/benchmark for prompt injection attacks/defenses. |
-| **New:** [CAI (Cybersecurity AI)](https://github.com/GangGreenTemperTatum/cai) | [GangGreenTemperTatum](https://github.com/GangGreenTemperTatum) | Open-source framework for AI-powered offensive/defensive security with 300+ models, built-in guardrails, and battle-tested in CTFs. |
-| **New:** [ARTKIT](https://github.com/BCG-X-Official/artkit) | [BCG-X](https://github.com/BCG-X-Official) | Open-source framework for automated LLM red-teaming with multi-turn attacker-target interactions. |
-| **New:** [Giskard](https://github.com/Giskard-AI/giskard) | [Giskard AI](https://github.com/Giskard-AI) | Advanced automated red-teaming platform with 50+ specialized probes and adaptive attack engine. |
-| **New:** [Mindgard](https://mindgard.ai/) | [Mindgard](https://mindgard.ai/) | DAST-AI platform for automated red teaming across the AI lifecycle with artifact scanning. |
-| **New:** [CodeGate](https://codegate.ai/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
-| **New:** [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
-| **New:** [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [ARTKIT](https://github.com/BCG-X-Official/artkit) | [BCG-X](https://github.com/BCG-X-Official) | Open-source framework for automated LLM red-teaming with multi-turn attacker-target interactions. |
+| [Giskard](https://github.com/Giskard-AI/giskard-oss) | [Giskard AI](https://github.com/Giskard-AI) | Advanced automated red-teaming platform with 50+ specialized probes and adaptive attack engine. |
+| [Mindgard](https://mindgard.ai/) | [Mindgard](https://mindgard.ai/) | DAST-AI platform for automated red teaming across the AI lifecycle with artifact scanning. |
+| [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
+| [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
+| [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
 
 ---
 
@@ -96,10 +95,7 @@ This repository covers:
 | [PIPE – Prompt Injection Primer](https://github.com/jthack/PIPE) | [jthack](https://github.com/jthack) | Attack scenarios and payloads for engineers. |
 | [Basic-ML-prompt-injections](https://github.com/Zierax/Basic-ML-prompt-injections) | [Zierax](https://github.com/Zierax) | Educational payloads. |
 | [OWASP LLM Prompt Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html) | [OWASP](https://owasp.org) | Prevention cheat sheet and best practices. |
-| **New:** [Prompt Security](https://promptsecurity.com/) | [Prompt Security](https://promptsecurity.com/) | Runtime protection for AI apps with prompt injection filtering and attack detection. |
-| **New:** [NeuralTrust AI Guide](https://neuraltrust.ai/) | [NeuralTrust](https://neuraltrust.ai/) | Comprehensive guide to implementing prompt injection detection with real-time alerting. |
-| **New:** [Microsoft AI Prompt Shields](https://developer.microsoft.com/en-us/microsoft-365/blogs/securing-ai-prompt-shields/) | [Microsoft](https://www.microsoft.com/) | AI Prompt Shields for defending against direct and indirect prompt injection in MCP. |
-| **New:** [OpenAI Prompt Injection Detection](https://openai.github.io/guardrails-python/) | [OpenAI](https://openai.com/) | Guardrails for detecting prompt injection in function calls and outputs. |
+| [NeuralTrust AI Guide](https://neuraltrust.ai/) | [NeuralTrust](https://neuraltrust.ai/) | Comprehensive guide to implementing prompt injection detection with real-time alerting. |
 
 ---
 
@@ -110,12 +106,9 @@ This repository covers:
 | [HEART](https://github.com/IBM/heart-library) | [IBM](https://github.com/IBM) | Hardened ART extension for T&E workflows. |
 | [Rebuff](https://github.com/protectai/rebuff) | [Protect AI](https://github.com/protectai) | Self-hardening prompt injection detector (multi-layer). |
 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | [Meta](https://github.com/meta-llama) | Llama Guard, CyberSecEval, and more. |
-| **New:** [HarmBench](https://github.com/centerforaisafety/HarmBench) | [Center for AI Safety](https://www.safe.ai/) | Standardized evaluation framework for automated red teaming with 18 methods comparison. |
-| **New:** [AutoRedTeamer](https://github.com/autoredteam/AutoRedTeamer) | [AutoRedTeam](https://github.com/autoredteam) | Autonomous red teaming with lifelong attack integration and memory-guided selection. |
-| **New:** [MAD-MAX](https://github.com/madmax-ai/madmax) | [MAD-MAX](https://github.com/madmax-ai) | Modular and Diverse Malicious Attack Mixtures for automated LLM red teaming. |
-| **New:** [UDora](https://github.com/udora-ai/UDora) | [UDora AI](https://github.com/udora-ai) | Unified red teaming framework for LLM agents that dynamically hijacks their reasoning. |
-| **New:** [Splx AI](https://splx.ai/) | [Splx AI](https://splx.ai/) | Commercial platform for multi-modal AI red teaming with CI/CD integration. |
-| **New:** [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | Open-source MCP Gateway for Model Context Protocol security testing. |
+| [HarmBench](https://github.com/centerforaisafety/HarmBench) | [Center for AI Safety](https://www.safe.ai/) | Standardized evaluation framework for automated red teaming with 18 methods comparison. |
+| [Splx AI](https://splx.ai/) | [Splx AI](https://splx.ai/) | Commercial platform for multi-modal AI red teaming with CI/CD integration. |
+| [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | Open-source MCP Gateway for Model Context Protocol security testing. |
 
 ---
 
@@ -135,7 +128,7 @@ This repository covers:
 | SANS | [SEC545: GenAI & LLM AppSec](https://www.sans.org/cyber-security-courses/genai-llm-application-security/) | Hands-on GenAI security. |
 | SANS | [SEC495: Building & Securing RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag/) | RAG security training. |
 | SANS | [SEC411: AI Security Principles](https://www.sans.org/cyber-security-courses/ai-security-principles-practices/) | Fundamentals with Docker labs. |
-| **New:** SANS | [SANS AI Cybersecurity Summit 2025](https://www.sans.org/cyber-security-summit/) | Hands-on workshops and live demos for AI/ML integration in cybersecurity (Denver, March 31 – April 7, 2025). |
+| SANS | [SANS AI Cybersecurity Summit 2025](https://www.sans.org/cyber-security-summit/) | Hands-on workshops and live demos for AI/ML integration in cybersecurity (Denver, March 31 – April 7, 2025). |
 | AppSecEngineer | [AI Combat & Construct](https://www.appsecengineer.com/) | Attack/defend AI apps. |
 | Practical DevSecOps | [CAISP](https://www.practical-devsecops.com/certified-ai-security-professional/) | 60 days of labs; MITRE ATLAS defenses. |
 | HackAPrompt | [HackAPrompt 1.0](https://www.hackaprompt.com/) | Prompt hacking competition. |
@@ -160,8 +153,8 @@ This repository covers:
 | [OWASP LLM Prompt Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html) | [OWASP](https://owasp.org) | Prevention best practices. |
 | [LangChain Security Policy](https://python.langchain.com/docs/security/) | [LangChain](https://www.langchain.com/) | "Four Perimeters" and app hardening. |
 | [CISA AI Security Best Practices](https://www.cisa.gov/ai) | [CISA](https://www.cisa.gov/) | AI system security guidance. |
-| **New:** [NVIDIA AI Red Team Practical Advice](https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/) | [NVIDIA](https://www.nvidia.com/) | Key findings from AIRT assessments on securing AI-powered applications. |
-| **New:** [Salesforce Prompt Injection Detection Guide](https://www.salesforce.com/blog/prompt-injection-detection/) | [Salesforce](https://www.salesforce.com/) | Building trusted AI systems against prompt injection threats. |
+| [NVIDIA AI Red Team Practical Advice](https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/) | [NVIDIA](https://www.nvidia.com/) | Key findings from AIRT assessments on securing AI-powered applications. |
+| [Salesforce Prompt Injection Detection Guide](https://www.salesforce.com/blog/prompt-injection-detection/) | [Salesforce](https://www.salesforce.com/) | Building trusted AI systems against prompt injection threats. |
 
 ---
 
@@ -172,7 +165,7 @@ This repository covers:
 | [NIST AI RMF + GenAI Profile](https://www.nist.gov/itl/ai-risk-management-framework) | NIST | Govern, Map, Measure, Manage. |
 | [MITRE ATLAS](https://atlas.mitre.org/) | MITRE | AI adversary TTPs (modeled after ATT&CK). |
 | [CISA AI Guidelines](https://www.cisa.gov/ai) | CISA | Joint guidance for AI/ML systems. |
-| **New:** [OWASP Top 10 2025](https://owasp.org/Top10/) | OWASP | Updated to include A03: Software Supply Chain Failures and A10: Mishandling of Exceptional Conditions. |
+| [OWASP Top 10 2025](https://owasp.org/Top10/) | OWASP | Updated to include A03: Software Supply Chain Failures and A10: Mishandling of Exceptional Conditions. |
 
 ---
 
@@ -183,9 +176,9 @@ This repository covers:
 | [LLM Guard](https://llm-guard.com/) | [Protect AI](https://protectai.com/) | Runtime scanning, PII redaction, content filtering. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | [Guardrails AI](https://www.guardrailsai.com/) | Validation rules & structured outputs using RAIL. |
 | [Lakera Guard](https://www.lakera.ai/) | [Lakera](https://www.lakera.ai/) | Real-time prompt injection/jailbreak detection with near-real-time alerts. |
-| **New:** [Prompt Armor](https://promptarmor.com/) | [Prompt Armor](https://promptarmor.com/) | Real-time detection and filtering of malicious prompts. |
-| **New:** [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
-| **New:** [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
+| [Prompt Armor](https://promptarmor.com/) | [Prompt Armor](https://promptarmor.com/) | Real-time detection and filtering of malicious prompts. |
+| [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
+| [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
 
 ---
 
@@ -193,7 +186,6 @@ This repository covers:
 | Org | Name | Description |
 | --- | ---- | ----------- |
 | ISACA | [AAISM™](https://www.isaca.org/credentialing/aaism) | AI Security Management (CISM/CISSP req.). |
-| **New:** CompTIA | [SecAI+ (Launching Feb 2026)](https://www.comptia.org/certifications/secai) | First comprehensive certification focused on AI systems security and secure AI application in cybersecurity operations. Covers: Basic AI Concepts (17%), Securing AI Systems (40%), AI-Assisted Security (24%), AI GRC (19%). |
 | ISC2 | [Building AI Strategy Certificate](https://www.isc2.org/) | Strategy, governance, risk. |
 | Practical DevSecOps | [CAISP](https://www.practical-devsecops.com/certified-ai-security-professional/) | Hands-on certification with labs. |
 | Securiti | [AI Security & Governance](https://education.securiti.ai/certifications/ai-governance/) | Governance, privacy, compliance. |
@@ -206,12 +198,10 @@ This repository covers:
 | [DEF CON](https://defcon.org/) | Aug 2025 | Las Vegas | AI Village & GenAI red team challenges. |
 | [Black Hat USA](https://www.blackhat.com/) | Aug 2025 | Las Vegas | AI Security Summit & trainings. |
 | [RSA Conference](https://www.rsaconference.com/) | Apr-May 2025 | San Francisco | AI security tracks, expo. |
-| **New:** [OWASP AI Security Summit @ RSAC 2025](https://genai.owasp.org/rsac-2025/) | Apr 30, 2025 | San Francisco (Moscone South RM 308) | Safeguarding GenAI & Agentic Apps, Top 10 Risks in 2025. 8:30 AM – 12:30 PM PDT. |
-| **New:** [AI Agent Security Summit](https://zenity.io/ai-agent-security-summit/) | Oct 8, 2025 | San Francisco | Industry's first AI Agent Security Summit with 17 sessions on-demand. |
-| **New:** [AI Risk Summit](https://airisksummit.com/) | Aug 19-20, 2025 | Ritz-Carlton, Half Moon Bay, CA | Security executives, AI researchers, and policymakers discuss adversarial AI, deepfakes, and regulatory challenges. |
-| **New:** [GCSCC AI Cybersecurity Conference 2025](https://gcscc.ox.ac.uk/) | 2025 | Oxford, UK | Securing the Cyber Future: Cyber Resilience in the Age of AI and Geopolitical Uncertainty. |
-| **New:** [AI Security & Privacy Conference 2025](https://aisecurityconf.com/) | 2025 | TBD | 400+ CISOs and C-Level Executives with expert-led discussions and case studies. |
-| **New:** [Cyber-AI 2025 Conference](https://cyber-ai.org/) | 2025 | Varna, Bulgaria | Four-day conference on cutting-edge advancements in cybersecurity and AI. |
+| [AI Risk Summit](https://airisksummit.com/) | Aug 19-20, 2025 | Ritz-Carlton, Half Moon Bay, CA | Security executives, AI researchers, and policymakers discuss adversarial AI, deepfakes, and regulatory challenges. |
+| [GCSCC AI Cybersecurity Conference 2025](https://gcscc.ox.ac.uk/) | 2025 | Oxford, UK | Securing the Cyber Future: Cyber Resilience in the Age of AI and Geopolitical Uncertainty. |
+| [AI Security & Privacy Conference 2025](https://aisecurityconf.com/) | 2025 | TBD | 400+ CISOs and C-Level Executives with expert-led discussions and case studies. |
+| [Cyber-AI 2025 Conference](https://cyber-ai.org/) | Sep 1-4, 2025 | Varna, Bulgaria | Four-day conference on cutting-edge advancements in cybersecurity and AI. |
 | [AI Village](https://aivillage.org/) | Ongoing | Virtual/Various | Community, meetups, and CTFs. |
 
 ---
@@ -225,14 +215,11 @@ This repository covers:
 | [SECURE Benchmark](https://arxiv.org/abs/2405.20441) | Cybersecurity | Multi-dataset security evaluation suite. |
 | [TruthfulQA](https://github.com/sylinrl/TruthfulQA) | Safety | Truthfulness under misconceptions. |
 | [ToxiGen](https://github.com/microsoft/TOXIGEN) | Safety | Toxicity dataset & benchmarks. |
-| **New:** [In-The-Wild Jailbreak Prompts Dataset](https://huggingface.co/datasets/TrustAIRLab/in-the-wild-jailbreak-prompts) | Jailbreak | 15,140 prompts with 1,405 jailbreak prompts from Reddit, Discord, websites (2022-2023). |
-| **New:** [JailbreakBench](https://jailbreakbench.github.io/) | Jailbreak | Open-source robustness benchmark with 200 distinct behaviors and jailbreak artifacts. |
-| **New:** [JailBreakV-28K](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k) | Jailbreak | 28,000 jailbreak test cases for MLLMs (20K text-based, 8K image-based). |
-| **New:** [Forbidden Question Set](https://huggingface.co/datasets/TrustAIRLab/forbidden_question_set) | Safety | Curated dataset of forbidden questions across high-risk categories. |
-| **New:** [LLM Jailbreak + Safety Data](https://www.kaggle.com/datasets/llm-jailbreak-safety) | Jailbreak | ~10K fine-tuning examples and ~3K adversarial prompts for chatbot safety. |
-| **New:** [PoisonBench](https://arxiv.org/abs/poisonbench) | Data Poisoning | First benchmark for evaluating poisoning in LLMs during preference learning. |
-| **New:** [AART: AI-Assisted Red-Teaming](https://arxiv.org/abs/2311.29119) | Red Teaming | Automated data generation and augmentation pipeline for diverse red-teaming scenarios. |
-| **New:** [PyRIT Framework Paper](https://arxiv.org/abs/2410.00001) | Red Teaming | Framework for security risk identification in GenAI systems. |
+| [In-The-Wild Jailbreak Prompts Dataset](https://huggingface.co/datasets/TrustAIRLab/in-the-wild-jailbreak-prompts) | Jailbreak | 15,140 prompts with 1,405 jailbreak prompts from Reddit, Discord, websites (2022-2023). |
+| [JailbreakBench](https://jailbreakbench.github.io/) | Jailbreak | Open-source robustness benchmark with 200 distinct behaviors and jailbreak artifacts. |
+| [JailBreakV-28K](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k) | Jailbreak | 28,000 jailbreak test cases for MLLMs (20K text-based, 8K image-based). |
+| [Forbidden Question Set](https://huggingface.co/datasets/TrustAIRLab/forbidden_question_set) | Safety | Curated dataset of forbidden questions across high-risk categories. |
+| [LLM Jailbreak + Safety Data](https://www.kaggle.com/datasets/llm-jailbreak-safety) | Jailbreak | ~10K fine-tuning examples and ~3K adversarial prompts for chatbot safety. |
 
 ---
 
@@ -244,8 +231,7 @@ This repository covers:
 | [Langfuse](https://langfuse.com/) | [Langfuse](https://langfuse.com/) | Open-source tracing & cost monitoring. |
 | [Phoenix](https://phoenix.arize.com/) | [Arize AI](https://arize.com/) | Open-source eval/monitoring. |
 | [Helicone](https://www.helicone.ai/) | [Helicone](https://www.helicone.ai/) | Proxy-based logging & analytics. |
-| **New:** [WhyLabs LLM Security](https://whylabs.ai/) | [WhyLabs](https://whylabs.ai/) | Comprehensive LLM observability and safeguarding with vulnerability checks and bias detection. |
-| **New:** [Dynatrace Davis AI](https://www.dynatrace.com/) | [Dynatrace](https://www.dynatrace.com/) | AI-driven root cause analysis with multidimensional baselining and predictive analytics. |
+| [Dynatrace Davis AI](https://www.dynatrace.com/) | [Dynatrace](https://www.dynatrace.com/) | AI-driven root cause analysis with multidimensional baselining and predictive analytics. |
 
 ---
 
@@ -259,22 +245,16 @@ This repository covers:
 | [HackSynth](https://github.com/aielte-research/HackSynth) | [aielte-research](https://github.com/aielte-research) | Planner + summarizer pentest agent. |
 | [HexStrike AI MCP](https://github.com/0x4m4/hexstrike-ai) | [0x4m4](https://github.com/0x4m4) | 150+ tools + AI agents automation. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents; CLI & CI/CD. |
-| **New:** [BurpGPT](https://portswigger.net/burp/extensions) | [Burp Suite](https://portswigger.net/) | Burp Suite extension integrating LLMs for enhanced vulnerability scanning and traffic analysis. |
+| [BurpGPT](https://portswigger.net/burp/extensions) | [Burp Suite](https://portswigger.net/) | Burp Suite extension integrating LLMs for enhanced vulnerability scanning and traffic analysis. |
 
 ---
 
 ## 🔐 MCP Security
-*New section dedicated to Model Context Protocol (MCP) security resources*
+*Model Context Protocol (MCP) security resources*
 
 | Name | Author | Description |
 | ---- | ------ | ----------- |
-| **New:** [Windows 11 MCP Security Architecture](https://blogs.windows.com/windowsdeveloper/2025/05/18/securing-mcp/) | [Microsoft](https://www.microsoft.com/) | Fundamental security capabilities for MCP with proxy-mediated communication and tool-level authorization. |
-| **New:** [Palo Alto Networks MCP Security Overview](https://www.paloaltonetworks.com/blog/mcp-security/) | [Palo Alto Networks](https://www.paloaltonetworks.com/) | Comprehensive guide to MCP risks including prompt injection, credential leakage, and tool poisoning. |
-| **New:** [Red Hat MCP Security Guide](https://www.redhat.com/en/blog/mcp-security) | [Red Hat](https://www.redhat.com/) | Understanding security implications and best practices for MCP implementations. |
-| **New:** [Pillar Security MCP Analysis](https://pillar.security/mcp-risks/) | [Pillar Security](https://pillar.security/) | Analysis of MCP security risks and attack vectors. |
-| **New:** [Strobes MCP Vulnerabilities](https://strobes.co/mcp-vulnerabilities/) | [Strobes](https://strobes.co/) | Critical vulnerabilities in MCP including session IDs in URLs and weak authentication. |
-| **New:** [Equixly MCP Security](https://equixly.com/mcp-security/) | [Equixly](https://equixly.com/) | Protocol fundamentals and missing secure-by-design principles in MCP. |
-| **New:** [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
 
 ---
 
@@ -288,7 +268,7 @@ This repository covers:
 | [awesome-llm-supply-chain-security](https://github.com/ShenaoW/awesome-llm-supply-chain-security) | [ShenaoW](https://github.com/ShenaoW) | Supply chain security resources. |
 | [awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) | [RiccardoBiosas](https://github.com/RiccardoBiosas) | MLSecOps tools & best practices. |
 | [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) | [EdinburghNLP](https://github.com/EdinburghNLP) | Hallucination detection papers. |
-| **New:** [oss-llm-security](https://github.com/kaplanlior/oss-llm-security) | [kaplanlior](https://github.com/kaplanlior) | Curated list of open-source LLM security tools including EasyJailbreak, fast-llm-security, and more. |
+| [oss-llm-security](https://github.com/kaplanlior/oss-llm-security) | [kaplanlior](https://github.com/kaplanlior) | Curated list of open-source LLM security tools including EasyJailbreak, fast-llm-security, and more. |
 
 ---
 
@@ -303,19 +283,19 @@ This repository covers:
 ---
 
 ## 📺 YouTube Channels
-*New section for cybersecurity and AI security YouTube channels*
+*Cybersecurity and AI security YouTube channels*
 
 | Name | Focus | Description |
 | ---- | ----- | ----------- |
-| **New:** [PowerDMARC](https://www.youtube.com/@PowerDMARC) | Email Security | Email authentication, DMARC, spoofing, phishing, and fraud tactics. |
-| **New:** [John Hammond](https://www.youtube.com/@_JohnHammond) | General Cybersecurity | 1.28M subscribers; CTF challenges, hacking tutorials, and real-time problem-solving. |
-| **New:** [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | Ethical Hacking | Practical ethical hacking, penetration testing, and step-by-step tutorials. |
-| **New:** [NetworkChuck](https://www.youtube.com/@NetworkChuck) | Networking & Security | Exploring cybersecurity, networking, and technology concepts. |
-| **New:** [Hak5](https://www.youtube.com/@hak5) | Hacking Tools | Cybersecurity tools, privacy, tech gadgets, and entertaining tutorials. |
-| **New:** [MalwareTech](https://www.youtube.com/@MalwareTechBlog) | Malware Analysis | Deep-dive malware analysis, cybersecurity research, and threat intelligence. |
-| **New:** [David Bombal](https://www.youtube.com/@davidbombal) | Network Security | Ethical hacking, network security, and certifications. |
-| **New:** [LiveOverflow](https://www.youtube.com/@LiveOverflow) | Binary Exploitation | Low-level security, reverse engineering, and CTF writeups. |
-| **New:** [CyberRisk TV](https://www.youtube.com/@CyberRiskTV) | AI Security | Black Hat 2025 coverage with focus on AI security, agentic AI, and trust. |
+| [PowerDMARC](https://www.youtube.com/@PowerDMARC) | Email Security | Email authentication, DMARC, spoofing, phishing, and fraud tactics. |
+| [John Hammond](https://www.youtube.com/@_JohnHammond) | General Cybersecurity | 1.28M subscribers; CTF challenges, hacking tutorials, and real-time problem-solving. |
+| [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | Ethical Hacking | Practical ethical hacking, penetration testing, and step-by-step tutorials. |
+| [NetworkChuck](https://www.youtube.com/@NetworkChuck) | Networking & Security | Exploring cybersecurity, networking, and technology concepts. |
+| [Hak5](https://www.youtube.com/@hak5) | Hacking Tools | Cybersecurity tools, privacy, tech gadgets, and entertaining tutorials. |
+| [MalwareTech](https://www.youtube.com/@MalwareTechBlog) | Malware Analysis | Deep-dive malware analysis, cybersecurity research, and threat intelligence. |
+| [David Bombal](https://www.youtube.com/@davidbombal) | Network Security | Ethical hacking, network security, and certifications. |
+| [LiveOverflow](https://www.youtube.com/@LiveOverflow) | Binary Exploitation | Low-level security, reverse engineering, and CTF writeups. |
+| [CyberRisk TV](https://www.youtube.com/@CyberRiskTV) | AI Security | Black Hat 2025 coverage with focus on AI security, agentic AI, and trust. |
 
 ---
 
@@ -328,10 +308,9 @@ This repository covers:
 | [Anthropic Transparency Hub](https://www.anthropic.com/transparency) | Anthropic | System cards & red team reports. |
 | [OpenAI Red Teaming Network](https://openai.com/red-teaming-network/) | OpenAI | Red teaming docs & invites. |
 | [MLSecOps Community](https://mlsecops.com/) | Community | Best practices & community. |
-| **New:** [OWASP GenAI Security Project](https://genai.owasp.org/) | [OWASP](https://owasp.org) | Global community-driven initiative for GenAI security guidance and resources. |
-| **New:** [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions/) | [OWASP](https://owasp.org) | Landmark guide outlining key risks and critical controls for securing LLMs and GenAI applications. |
-| **New:** [Lasso Security Blog](https://lasso.security/blog/) | [Lasso Security](https://lasso.security/) | Resources on LLM & AI cybersecurity, MCP security, and red teaming. |
-| **New:** [AI Security on Splunk](https://www.splunk.com/en_us/blog/learn/ai-security.html) | [Splunk](https://www.splunk.com/) | AI security insights and best practices from Splunk. |
+| [OWASP GenAI Security Project](https://genai.owasp.org/) | [OWASP](https://owasp.org) | Global community-driven initiative for GenAI security guidance and resources. |
+| [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions/) | [OWASP](https://owasp.org) | Landmark guide outlining key risks and critical controls for securing LLMs and GenAI applications. |
+| [Lasso Security Blog](https://lasso.security/blog/) | [Lasso Security](https://lasso.security/) | Resources on LLM & AI cybersecurity, MCP security, and red teaming. |
 
 ---
 
@@ -343,22 +322,22 @@ This repository covers:
 | Lakera Team | [Twitter/X](https://twitter.com/lakeraai) | Gandalf & Lakera Guard creators. |
 | NVIDIA AI Red Team | [Twitter/X](https://twitter.com/NVIDIAAIDev) | Team behind garak and practical security guidance. |
 | Microsoft AI Red Team | [Twitter/X](https://twitter.com/MSFTSecurity) | PyRIT & public red teaming lessons. |
-| **New:** Steve Wilson | [LinkedIn](https://www.linkedin.com/in/wilsonsd/) | OWASP Top 10 for LLM Applications Project Lead. |
-| **New:** Ads Dawson | [LinkedIn](https://www.linkedin.com/in/adamdawson0/) | Technical Lead & Vulnerability Entries Lead for OWASP Top 10 LLMs. |
+| Steve Wilson | [LinkedIn](https://www.linkedin.com/in/wilsonsd/) | OWASP Top 10 for LLM Applications Project Lead. |
+| Ads Dawson | [LinkedIn](https://www.linkedin.com/in/adamdawson0/) | Technical Lead & Vulnerability Entries Lead for OWASP Top 10 LLMs. |
 
 ---
 
 ## Contributions
-1. **Purpose:** Collect AI/LLM security & prompt-injection resources. Prefer open-source/community content.  
-2. **Out of Scope:** Ads, closed-source/proprietary, trials/freemium, or items needing private details.  
-3. **Relevance:** Must directly relate to AI/LLM security, jailbreaks, red teaming, model/app security.  
-4. **No Duplicates:** Avoid redundant entries.  
-5. **Thought Leaders:** Prefer figures tied to content/tools listed here.  
-6. **Accuracy:** Authors can open issues/PRs to update their entries.  
+1. **Purpose:** Collect AI/LLM security & prompt-injection resources. Prefer open-source/community content.
+2. **Out of Scope:** Ads, closed-source/proprietary, trials/freemium, or items needing private details.
+3. **Relevance:** Must directly relate to AI/LLM security, jailbreaks, red teaming, model/app security.
+4. **No Duplicates:** Avoid redundant entries.
+5. **Thought Leaders:** Prefer figures tied to content/tools listed here.
+6. **Accuracy:** Authors can open issues/PRs to update their entries.
 7. **Books:** Paid books allowed for educational value.
 
 **How to contribute**
-- Fork → Branch → Edit `README.md` → Open PR with a clear description.  
+- Fork → Branch → Edit `README.md` → Open PR with a clear description.
 - See GitHub's [Quickstart: Contributing to Projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 
 ---

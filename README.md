@@ -94,7 +94,6 @@ This repository covers:
 | [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | [IBM / LF AI](https://github.com/Trusted-AI) | Defenses against evasion, poisoning, extraction, inference attacks. |
 | [HEART](https://github.com/IBM/heart-library) | [IBM](https://github.com/IBM) | Hardened ART extension for T&E workflows. |
 | [Rebuff](https://github.com/protectai/rebuff) | [Protect AI](https://github.com/protectai) | Self-hardening prompt injection detector (multi-layer). |
-| [Plexiglass](https://github.com/invariantlabs/plexiglass) | [Invariant Labs](https://github.com/invariantlabs) | Security toolbox for testing/safeguarding LLMs. |
 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | [Meta](https://github.com/meta-llama) | Llama Guard, CyberSecEval, and more. |
 
 ---
@@ -106,7 +105,6 @@ This repository covers:
 | [Gandalf](https://gandalf.lakera.ai/) | [Lakera](https://www.lakera.ai/) | Prompt injection game with difficulty levels. |
 | [LLM Security CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF) | [TrustAI-laboratory](https://github.com/TrustAI-laboratory) | Free web-based vulnerable LLM CTFs. |
 | [DamnVulnerableLLMProject](https://github.com/harishsg993010/DamnVulnerableLLMProject) | [harishsg993010](https://github.com/harishsg993010) | DV LLM app for training/education. |
-| [Damn Vulnerable LLM Agent](https://labs.withsecure.com/tools/damn-vulnerable-llm-agent) | [WithSecure Labs](https://labs.withsecure.com/) | Focused on agentic T/A/O injection. |
 
 ---
 
@@ -130,8 +128,7 @@ This repository covers:
 | Various | Springer | [Large Language Models in Cybersecurity: Threats, Exposure and Mitigation](https://link.springer.com/book/10.1007/978-3-031-54827-7) | Open-access guide (2024). |
 | Various | Springer | [Generative AI Security: Theories and Practices](https://link.springer.com/book/10.1007/978-981-97-5443-8) | GenAI impacts across security (2024). |
 | Various | Springer | [AI-Driven Cybersecurity and Threat Intelligence](https://link.springer.com/book/10.1007/978-3-031-15030-2) | AI x security (2024). |
-| Steve Wilson | O’Reilly | [Developer’s Playbook for LLM Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) | Practical LLM AppSec (2024). |
-| John Sotiropoulos | Packt | [Adversarial AI Attacks, Mitigations, and Defense Strategies](https://www.packtpub.com/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985) | Hands-on defenses (2024). |
+| Steve Wilson | O'Reilly | [Developer's Playbook for LLM Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) | Practical LLM AppSec (2024). |
 
 ---
 
@@ -161,7 +158,6 @@ This repository covers:
 | [LLM Guard](https://llm-guard.com/) | [Protect AI](https://protectai.com/) | Runtime scanning, PII redaction, content filtering. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | [Guardrails AI](https://www.guardrailsai.com/) | Validation rules & structured outputs. |
 | [Lakera Guard](https://www.lakera.ai/) | [Lakera](https://www.lakera.ai/) | Real-time prompt injection/jailbreak detection. |
-| **New:** [CodeGate](https://codegate.ai/) | [Stacklok](https://stacklok.com/) | Open-source security proxy for coding assistants. |
 
 ---
 
@@ -201,7 +197,7 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [LangSmith](https://www.langchain.com/langsmith) | [LangChain](https://www.langchain.com/) | Tracing + evals for LLM apps. |
-| [W&B – LLM Ops](https://wandb.ai/site/llmops) | [Weights & Biases](https://wandb.ai/) | Experiment & prompt tracking. |
+| [Weights & Biases](https://wandb.ai/) | [Weights & Biases](https://wandb.ai/) | Experiment tracking & prompt management for LLMs. |
 | [Langfuse](https://langfuse.com/) | [Langfuse](https://langfuse.com/) | Open-source tracing & cost monitoring. |
 | [Phoenix](https://phoenix.arize.com/) | [Arize AI](https://arize.com/) | Open-source eval/monitoring. |
 | [Helicone](https://www.helicone.ai/) | [Helicone](https://www.helicone.ai/) | Proxy-based logging & analytics. |

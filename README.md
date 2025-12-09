@@ -73,7 +73,7 @@ This repository covers:
 | [aiapwn](https://github.com/karimhabush/aiapwn) | [karimhabush](https://github.com/karimhabush) | Automatic prompt injection testing with tailored payload generation. |
 | [FuzzyAI](https://github.com/cyberark/FuzzyAI) | [CyberArk](https://github.com/cyberark) | LLM fuzzing framework to identify jailbreaks and vulns. |
 | [LLMFuzzer](https://github.com/mnns/LLMFuzzer) | [mnns](https://github.com/mnns) | Fuzzing framework for LLM API integrations. |
-| [promptfoo](https://www.promptfoo.dev) | promptfoo | Dynamic adversarial probes, context-aware test cases, and MCP testing capabilities. |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | [promptfoo](https://github.com/promptfoo) | Adaptive red teaming for LLM agents with multi-turn attacks (PAIR, tree-of-attacks, crescendo) that probe tool use, RAG, and agentic workflows. Used by 250K+ developers; featured in OpenAI and Anthropic developer education. |
 | [LLM Warden](https://github.com/jackhhao/llm-warden) | [jackhhao](https://github.com/jackhhao) | Simple jailbreak detection (Hugging Face model). |
 | [Vigil](https://github.com/deadbits/vigil-llm) | [deadbits](https://github.com/deadbits) | Modular scanners (vectors, YARA, transformers) via lib & REST API. |
 | [picklescan](https://github.com/mmaitre314/picklescan) | [mmaitre314](https://github.com/mmaitre314) | Detects malicious code in Python pickle model files. |

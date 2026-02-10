@@ -85,6 +85,7 @@ This repository covers:
 | [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
 | [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [PwnClaw](https://pwnclaw.com) | [ClawdeRaccoon](https://github.com/ClawdeRaccoon) | AI agent security testing platform — 112 real-world attacks across 14 categories (prompt injection, jailbreaks, MCP poisoning, data exfiltration, and more). No API keys needed; AI-powered judge; CI/CD API and GitHub Action. |
 
 ---
 

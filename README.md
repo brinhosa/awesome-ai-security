@@ -256,6 +256,11 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [MCP Security Guide](https://repello.ai/blog/mcp-security-guide) | [Repello AI](https://repello.ai/) | Overview of MCP attack surface, trust boundaries, tool poisoning vectors, and defensive controls. |
+| [MCP Tool Poisoning to RCE](https://repello.ai/blog/mcp-tool-poisoning-to-rce) | [Repello AI](https://repello.ai/) | Attack chain showing how a poisoned MCP tool can escalate to remote code execution. |
+| [Zero-click Calendar Exfiltration via MCP](https://repello.ai/blog/zero-click-calendar-exfiltration-reveals-mcp-security-risk-in-11-ai) | [Repello AI](https://repello.ai/) | Coordinated disclosure of MCP-based calendar data exfiltration across 11 AI platforms. |
+| [ChatGPT MCP Connector: Zero-click Data Exfiltration](https://repello.ai/blog/chatgpt-mcp-connector-security-vulnerability-zero-click-data-exfiltration-attack) | [Repello AI](https://repello.ai/) | Zero-click exfiltration attack chain via the ChatGPT MCP connector. |
+| [MCP Prompt Injection](https://repello.ai/blog/mcp-prompt-injection) | [Repello AI](https://repello.ai/) | Prompt injection attack vectors specific to the Model Context Protocol. |
 
 ---
 

@@ -256,6 +256,7 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [AI Guardian](https://github.com/killertcell428/ai-guardian) | [killertcell428](https://github.com/killertcell428) | Zero-dependency LLM/MCP security scanner with 121 detection patterns. First OSS MCP tool poisoning detector. Covers OWASP LLM Top 10; supports EN/JA/KO/ZH. `pip install aig-guardian` |
 
 ---
 

@@ -180,6 +180,7 @@ This repository covers:
 | [Prompt Armor](https://promptarmor.com/) | [Prompt Armor](https://promptarmor.com/) | Real-time detection and filtering of malicious prompts. |
 | [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
 | [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
+| [Asqav](https://github.com/jagmarques/asqav-sdk) | [jagmarques](https://github.com/jagmarques) | Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies. |
 
 ---
 

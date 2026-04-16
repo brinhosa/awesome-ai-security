@@ -65,6 +65,8 @@ This repository covers:
 ---
 
 ## 🧪 AI Security Testing Tools
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [garak](https://github.com/NVIDIA/garak) | [NVIDIA](https://github.com/NVIDIA) | LLM vulnerability scanner – tests 120+ categories (hallucination, data leakage, prompt injection, misinformation, toxicity, jailbreaks). |

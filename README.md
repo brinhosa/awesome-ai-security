@@ -119,6 +119,7 @@ This repository covers:
 | [Gandalf](https://gandalf.lakera.ai/) | [Lakera](https://www.lakera.ai/) | Prompt injection game with difficulty levels (world's largest red team experiment). |
 | [LLM Security CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF) | [TrustAI-laboratory](https://github.com/TrustAI-laboratory) | Free web-based vulnerable LLM CTFs. |
 | [DamnVulnerableLLMProject](https://github.com/harishsg993010/DamnVulnerableLLMProject) | [harishsg993010](https://github.com/harishsg993010) | DV LLM app for training/education. |
+| [PromptTrace](https://prompttrace.airedlab.com) | [AiredLab](https://airedlab.com) | Free hands-on AI security training platform with 10 labs, a 15-level CTF, and real-time prompt stack visibility. |
 
 ---
 
@@ -134,6 +135,7 @@ This repository covers:
 | HackAPrompt | [HackAPrompt 1.0](https://www.hackaprompt.com/) | Prompt hacking competition. |
 | HackAPrompt | [HackAPrompt 2.0](https://www.hackaprompt.com/) | Large-scale red-teaming hackathon. |
 | AI Village | [DEF CON AI CTF](https://www.kaggle.com/competitions/ai-village-ctf) | Annual LLM security CTF. |
+| AiredLab | [PromptTrace](https://prompttrace.airedlab.com) | Free prompt injection and AI security labs with real LLMs. 10 labs + 15-level CTF (The Gauntlet) + Context Trace. |
 
 ---
 

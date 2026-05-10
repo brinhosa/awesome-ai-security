@@ -233,6 +233,7 @@ This repository covers:
 | [Phoenix](https://phoenix.arize.com/) | [Arize AI](https://arize.com/) | Open-source eval/monitoring. |
 | [Helicone](https://www.helicone.ai/) | [Helicone](https://www.helicone.ai/) | Proxy-based logging & analytics. |
 | [Dynatrace Davis AI](https://www.dynatrace.com/) | [Dynatrace](https://www.dynatrace.com/) | AI-driven root cause analysis with multidimensional baselining and predictive analytics. |
+| [Future AGI](https://github.com/future-agi/future-agi) | [Future AGI](https://github.com/future-agi) | Open-source self-hostable platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for AI agents and LLM apps. |
 
 ---
 

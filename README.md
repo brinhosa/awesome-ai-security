@@ -174,6 +174,7 @@ This repository covers:
 | ---- | ------ | ----------- |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | [NVIDIA](https://github.com/NVIDIA) | Programmable input/output/dialog/retrieval/execution controls. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | [Protect AI](https://protectai.com/) | Runtime scanning, PII redaction, content filtering. |
+| [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) | [Armorer Labs](https://github.com/ArmorerLabs) | Local Rust scanner for AI-agent prompt injection, credential leakage, exfiltration, MCP context, and risky tool-call enforcement. |
 | [LocalMod](https://github.com/KOKOSde/localmod) | [KOKOSde](https://github.com/KOKOSde) | Self-hosted content moderation with prompt injection, toxicity, PII, and NSFW detection. 100% offline. |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | [Guardrails AI](https://www.guardrailsai.com/) | Validation rules & structured outputs using RAIL. |
 | [Lakera Guard](https://www.lakera.ai/) | [Lakera](https://www.lakera.ai/) | Real-time prompt injection/jailbreak detection with near-real-time alerts. |

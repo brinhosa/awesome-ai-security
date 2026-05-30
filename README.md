@@ -180,6 +180,7 @@ This repository covers:
 | [Prompt Armor](https://promptarmor.com/) | [Prompt Armor](https://promptarmor.com/) | Real-time detection and filtering of malicious prompts. |
 | [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
 | [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
+| [Polaxis](https://github.com/nishant6118/Polaxis-SDK-MCP) | [Polaxis](https://polaxis.io) | Runtime firewall for AI agents — 7-layer threat detection (prompt injection, PII, secrets, memory poisoning, authority claims) before tool execution. Sub-millisecond regex L1–L5 + LLM semantic eval L6 + policy engine L7. 99.4% avg detection rate, 0% false-block rate. Python SDK + MCP server. [Benchmark →](https://polaxis.io/benchmark) |
 
 ---
 
@@ -256,6 +257,7 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [Polaxis MCP Server](https://github.com/nishant6118/Polaxis-SDK-MCP) | [Polaxis](https://polaxis.io) | Drop-in MCP server implementing a 7-layer AI agent security firewall — guards every tool call against prompt injection, PII exfiltration, credential leaks, memory poisoning, and authority impersonation before tools run. 99.4% avg detection rate, 0% false-block rate. [Benchmark →](https://polaxis.io/benchmark) |
 
 ---
 

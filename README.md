@@ -233,6 +233,7 @@ This repository covers:
 | [Phoenix](https://phoenix.arize.com/) | [Arize AI](https://arize.com/) | Open-source eval/monitoring. |
 | [Helicone](https://www.helicone.ai/) | [Helicone](https://www.helicone.ai/) | Proxy-based logging & analytics. |
 | [Dynatrace Davis AI](https://www.dynatrace.com/) | [Dynatrace](https://www.dynatrace.com/) | AI-driven root cause analysis with multidimensional baselining and predictive analytics. |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | [TWZRD](https://intel.twzrd.xyz) | On-chain trust scoring and behavioral monitoring for AI agent wallets on Solana. MCP: , . [MCP](https://intel.twzrd.xyz/mcp) |
 
 ---
 

@@ -85,6 +85,7 @@ This repository covers:
 | [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
 | [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment) | [Trent AI](https://github.com/trnt-ai) | Security assessment skill for OpenClaw environments – scans gateway config, skill permissions, MCP servers, and plugins; correlates them into chained attack paths with prioritized remediation. |
 
 ---
 

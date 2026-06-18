@@ -85,6 +85,7 @@ This repository covers:
 | [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
 | [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [Tencent Zhuque Lab](https://github.com/Tencent) | Full-stack AI red teaming platform scanning Agent Skills for tool poisoning, MCP servers for 9 attack vector classes, AI infrastructure (30+ components, 400+ CVEs including Ollama/ComfyUI/vLLM), and LLM jailbreaks. Black Hat Europe 2025 Arsenal. MIT license. |
 
 ---
 

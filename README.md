@@ -255,6 +255,7 @@ This repository covers:
 
 | Name | Author | Description |
 | ---- | ------ | ----------- |
+| [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) | [Armorer Labs](https://github.com/ArmorerLabs) | MIT-licensed local Rust scanner and MCP proxy for detecting prompt injection, credential leakage, exfiltration, and risky tool-call arguments before execution. |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
 
 ---

@@ -134,6 +134,7 @@ This repository covers:
 | HackAPrompt | [HackAPrompt 1.0](https://www.hackaprompt.com/) | Prompt hacking competition. |
 | HackAPrompt | [HackAPrompt 2.0](https://www.hackaprompt.com/) | Large-scale red-teaming hackathon. |
 | AI Village | [DEF CON AI CTF](https://www.kaggle.com/competitions/ai-village-ctf) | Annual LLM security CTF. |
+| Principle SG | [AI RiskAtlas](https://riskatlas.principle.sg) | Free interactive learning lab for AI/LLM/agentic security: 91 sourced real-world incident cases with root-cause and architecture walkthroughs, 34 hands-on attack-scenario simulations, and a risk taxonomy cross-mapped to OWASP LLM Top 10 / MITRE ATLAS. |
 
 ---
 

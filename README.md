@@ -246,6 +246,7 @@ This repository covers:
 | [HackSynth](https://github.com/aielte-research/HackSynth) | [aielte-research](https://github.com/aielte-research) | Planner + summarizer pentest agent. |
 | [HexStrike AI MCP](https://github.com/0x4m4/hexstrike-ai) | [0x4m4](https://github.com/0x4m4) | 150+ tools + AI agents automation. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents; CLI & CI/CD. |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | [ASCIT31](https://github.com/ASCIT31) | Autonomous AI pentest platform & MCP host; per-tech offensive sub-agents, AD & K8s, orchestrates 80+ tools. |
 | [BurpGPT](https://burpgpt.app) | [Burp Suite](https://portswigger.net/) | Burp Suite extension integrating LLMs for enhanced vulnerability scanning and traffic analysis. |
 
 ---

@@ -180,6 +180,7 @@ This repository covers:
 | [Prompt Armor](https://promptarmor.com/) | [Prompt Armor](https://promptarmor.com/) | Real-time detection and filtering of malicious prompts. |
 | [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
 | [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
+| [HOL Guard](https://github.com/hashgraph-online/hol-guard) | [hashgraph-online](https://github.com/hashgraph-online) | Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. |
 
 ---
 

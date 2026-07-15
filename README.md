@@ -70,6 +70,7 @@ This repository covers:
 | [garak](https://github.com/NVIDIA/garak) | [NVIDIA](https://github.com/NVIDIA) | LLM vulnerability scanner – tests 120+ categories (hallucination, data leakage, prompt injection, misinformation, toxicity, jailbreaks). |
 | [PyRIT](https://github.com/Azure/PyRIT) | [Microsoft](https://github.com/Azure) | Python Risk Identification Tool for GenAI; adversarial testing automation with multi-turn orchestration. |
 | [promptmap](https://github.com/utkusen/promptmap) | [utkusen](https://github.com/utkusen) | Automated prompt injection scanner with white-box testing. |
+| [Sunglasses](https://github.com/sunglasses-dev/sunglasses) | [sunglasses-dev](https://github.com/sunglasses-dev) | Runtime trust scanner for AI agents with 1,089 patterns across 65 attack categories (prompt injection, tool poisoning, MCP attacks); pip package, GitHub Action, and free web scanner. |
 | [aiapwn](https://github.com/karimhabush/aiapwn) | [karimhabush](https://github.com/karimhabush) | Automatic prompt injection testing with tailored payload generation. |
 | [FuzzyAI](https://github.com/cyberark/FuzzyAI) | [CyberArk](https://github.com/cyberark) | LLM fuzzing framework to identify jailbreaks and vulns. |
 | [LLMFuzzer](https://github.com/mnns/LLMFuzzer) | [mnns](https://github.com/mnns) | Fuzzing framework for LLM API integrations. |

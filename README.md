@@ -109,6 +109,7 @@ This repository covers:
 | [HarmBench](https://github.com/centerforaisafety/HarmBench) | [Center for AI Safety](https://www.safe.ai/) | Standardized evaluation framework for automated red teaming with 18 methods comparison. |
 | [Splx AI](https://splx.ai/) | [Splx AI](https://splx.ai/) | Commercial platform for multi-modal AI red teaming with CI/CD integration. |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | Open-source MCP Gateway for Model Context Protocol security testing. |
+| [Redcells](https://redcells.net) | [awdemos](https://github.com/awdemos) | Automated adversarial testing platform for LLMs you own or control. OpenAI-compatible targets, iterative attack→refine layers, dashboard + API. |
 
 ---
 

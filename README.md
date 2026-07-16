@@ -85,6 +85,7 @@ This repository covers:
 | [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
 | [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [Redcells](https://redcells.net) | [awdemos](https://github.com/awdemos/redcell) | Automated adversarial testing for OpenAI-compatible LLMs; submit an intent and target model, run iterative attack-to-refine layers, and review per-layer prompts, responses, and judge scores in a dashboard or via API. |
 
 ---
 

@@ -312,6 +312,8 @@ This repository covers:
 | [OWASP GenAI Security Project](https://genai.owasp.org/) | [OWASP](https://owasp.org) | Global community-driven initiative for GenAI security guidance and resources. |
 | [OWASP AI Security Solutions Landscape](https://genai.owasp.org/ai-security-solutions/) | [OWASP](https://owasp.org) | Landmark guide outlining key risks and critical controls for securing LLMs and GenAI applications. |
 | [Lasso Security Blog](https://lasso.security/blog/) | [Lasso Security](https://lasso.security/) | Resources on LLM & AI cybersecurity, MCP security, and red teaming. |
+| [ATLAS — Prompt-Injection Cascades in Multi-Agent Systems](https://senthex.com/en/research/atlas/) | Senthex | Forensic case study: one poisoned ticket drives four agents to a fraudulent transfer; the failure is topological, not per-model. |
+| [RELAY — Authority Framing in Agentic CI/CD](https://senthex.com/en/research/relay/) | Senthex | Case study: verifier agents ship secret-exfil code framed as "pre-approved"; ~80% of laundered PRs pass a competent scanner. |
 
 ---
 

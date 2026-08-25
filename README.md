@@ -256,6 +256,7 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli) | [Ventrova](https://github.com/Ventrova) | Free CLI scanner for OWASP LLM Top 10 prompt-injection/jailbreak risks and MCP config (`mcp.json`) security issues. `npx github:Ventrova/sentinel-scan-cli` or `pipx run --spec git+https://github.com/Ventrova/sentinel-scan-cli sentinel-scan`. |
 
 ---
 

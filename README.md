@@ -96,6 +96,7 @@ This repository covers:
 | [Basic-ML-prompt-injections](https://github.com/Zierax/Basic-ML-prompt-injections) | [Zierax](https://github.com/Zierax) | Educational payloads. |
 | [OWASP LLM Prompt Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html) | [OWASP](https://owasp.org) | Prevention cheat sheet and best practices. |
 | [NeuralTrust AI Guide](https://neuraltrust.ai/) | [NeuralTrust](https://neuraltrust.ai/) | Comprehensive guide to implementing prompt injection detection with real-time alerting. |
+| [HackedSelf](https://www.hackedself.com/) | [scrapertweeter3-prog](https://github.com/scrapertweeter3-prog) | Prompt-injection post-mortems and hardening guides for people shipping LLM apps. |
 
 ---
 

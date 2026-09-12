@@ -125,6 +125,7 @@ This repository covers:
 ## 🎓 Training, Labs & CTF Challenges
 | Organization | Name | Description |
 | ------------ | ---- | ----------- |
+| rodemancyber | [AgentsAllTheThings](https://github.com/rodemancyber/AgentsAllTheThings) | Hands-on defanged lab of coding-agent prompt-injection attacks (README, issue, web page, MCP tool, rules file, unicode, image), each with a working defense. Local, decoy data only. |
 | SANS | [SEC545: GenAI & LLM AppSec](https://www.sans.org/cyber-security-courses/genai-llm-application-security/) | Hands-on GenAI security. |
 | SANS | [SEC495: Building & Securing RAG](https://www.sans.org/cyber-security-courses/leveraging-llms-building-securing-rag/) | RAG security training. |
 | SANS | [SEC411: AI Security Principles](https://www.sans.org/cyber-security-courses/ai-security-principles-practices/) | Fundamentals with Docker labs. |

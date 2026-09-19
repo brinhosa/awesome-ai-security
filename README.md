@@ -172,6 +172,7 @@ This repository covers:
 ## 🛡️ Defense & Guardrails
 | Name | Author | Description |
 | ---- | ------ | ----------- |
+| [Bifrost Edge](https://github.com/maximhq/bifrost) | [Maxim HQ](https://github.com/maximhq) | Endpoint governance for AI apps and MCP servers with guardrails, approvals, audit logs, and device management. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | [NVIDIA](https://github.com/NVIDIA) | Programmable input/output/dialog/retrieval/execution controls. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | [Protect AI](https://protectai.com/) | Runtime scanning, PII redaction, content filtering. |
 | [LocalMod](https://github.com/KOKOSde/localmod) | [KOKOSde](https://github.com/KOKOSde) | Self-hosted content moderation with prompt injection, toxicity, PII, and NSFW detection. 100% offline. |

@@ -221,6 +221,7 @@ This repository covers:
 | [JailBreakV-28K](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k) | Jailbreak | 28,000 jailbreak test cases for MLLMs (20K text-based, 8K image-based). |
 | [Forbidden Question Set](https://huggingface.co/datasets/TrustAIRLab/forbidden_question_set) | Safety | Curated dataset of forbidden questions across high-risk categories. |
 | [LLM Jailbreak + Safety Data](https://www.kaggle.com/datasets/llm-jailbreak-safety) | Jailbreak | ~10K fine-tuning examples and ~3K adversarial prompts for chatbot safety. |
+| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Agent Security | 354 sourced records of real-world AI agent incidents (prompt injection, MCP, agent supply chain, rogue agents), each flagged for confirmed harm; JSON/CSV exports, CC BY 4.0. |
 
 ---
 

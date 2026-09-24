@@ -155,6 +155,7 @@ This repository covers:
 | [CISA AI Security Best Practices](https://www.cisa.gov/ai) | [CISA](https://www.cisa.gov/) | AI system security guidance. |
 | [NVIDIA AI Red Team Practical Advice](https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/) | [NVIDIA](https://www.nvidia.com/) | Key findings from AIRT assessments on securing AI-powered applications. |
 | [Salesforce Prompt Injection Detection Guide](https://www.salesforce.com/blog/prompt-injection-detection/) | [Salesforce](https://www.salesforce.com/) | Building trusted AI systems against prompt injection threats. |
+| [Why AI Agents Leak Sensitive Data (and How to Stop Them)](https://pastagi.com/news/ai-agent-data-leakage-prevention/) | [PastAGI](https://pastagi.com/) | How autonomous agents leak data via reasoning traces and cross-tenant summaries, with sanitization boundaries that hold. |
 
 ---
 

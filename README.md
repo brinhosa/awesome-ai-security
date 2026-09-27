@@ -85,6 +85,7 @@ This repository covers:
 | [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
 | [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [DeepKeep AI Agent Scanner](https://agentscanner.deepkeep.ai/) | [DeepKeep](https://github.com/Deepkeepai) | Free agentic attack-surface scanner that maps LLMs, tools, integrations, and workflows to identify exploitable weaknesses, indirect prompt-injection paths, and prioritized remediation steps. |
 
 ---
 
@@ -108,6 +109,7 @@ This repository covers:
 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | [Meta](https://github.com/meta-llama) | Llama Guard, CyberSecEval, and more. |
 | [HarmBench](https://github.com/centerforaisafety/HarmBench) | [Center for AI Safety](https://www.safe.ai/) | Standardized evaluation framework for automated red teaming with 18 methods comparison. |
 | [Splx AI](https://splx.ai/) | [Splx AI](https://splx.ai/) | Commercial platform for multi-modal AI red teaming with CI/CD integration. |
+| [DeepKeep AI Red Teaming](https://www.deepkeep.ai/lp/vibe-ai-red-teaming) | [DeepKeep](https://github.com/Deepkeepai) | Commercial AI red-teaming offering for multimodal and multilingual AI applications and agents, combining automated testing with human-steered Vibe AI Red Teaming for adaptive assessment, business-impact findings, compliance evidence, and on-prem or air-gapped deployment support. |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | Open-source MCP Gateway for Model Context Protocol security testing. |
 
 ---

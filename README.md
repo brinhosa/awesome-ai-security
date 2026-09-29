@@ -85,6 +85,7 @@ This repository covers:
 | [CodeGate](https://www.stacklok.com/) | [Stacklok](https://www.stacklok.com/) | Security proxy for LLMs and IDEs that filters input/output to prevent API key leakage and insecure code. |
 | [AIJack](https://github.com/Koukyosyumei/AIJack) | [Koukyosyumei](https://github.com/Koukyosyumei) | Open-source simulator for modeling security and privacy threats targeting ML systems. |
 | [Strix](https://github.com/usestrix/strix) | [usestrix](https://usestrix.com/) | "AI hacker" agents for CLI & CI/CD with automated security testing. |
+| [API Relay Audit](https://github.com/toby-bridges/api-relay-audit) | [toby-bridges](https://github.com/toby-bridges) | Local CLI for auditing third-party AI API relays and LLM proxies for prompt-injection signals, pinned package-command changes, error-response leakage and Anthropic SSE anomalies; generates Markdown reports. |
 
 ---
 

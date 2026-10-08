@@ -180,6 +180,7 @@ This repository covers:
 | [Prompt Armor](https://promptarmor.com/) | [Prompt Armor](https://promptarmor.com/) | Real-time detection and filtering of malicious prompts. |
 | [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
 | [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
+| [sofagent](https://github.com/KongFangXun/sofagent) | [KongFangXun](https://github.com/KongFangXun) | Open-source commit-time audit harness for AI coding agents: 28 git-diff rules, HMAC-chained audit logs, snapshot rollback. MIT. |
 
 ---
 

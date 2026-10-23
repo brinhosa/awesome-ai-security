@@ -218,6 +218,7 @@ This repository covers:
 | [ToxiGen](https://github.com/microsoft/TOXIGEN) | Safety | Toxicity dataset & benchmarks. |
 | [In-The-Wild Jailbreak Prompts Dataset](https://huggingface.co/datasets/TrustAIRLab/in-the-wild-jailbreak-prompts) | Jailbreak | 15,140 prompts with 1,405 jailbreak prompts from Reddit, Discord, websites (2022-2023). |
 | [JailbreakBench](https://jailbreakbench.github.io/) | Jailbreak | Open-source robustness benchmark with 200 distinct behaviors and jailbreak artifacts. |
+| [PromptSecurity](https://github.com/datasec-lab/PromptSecurity) | Jailbreak & Defense Evaluation | Open-source evaluation framework with JailbreakDB and PromptSecurity-Eval datasets; [SoK paper](https://arxiv.org/abs/2510.15476) accepted at IEEE S&P 2027. |
 | [JailBreakV-28K](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k) | Jailbreak | 28,000 jailbreak test cases for MLLMs (20K text-based, 8K image-based). |
 | [Forbidden Question Set](https://huggingface.co/datasets/TrustAIRLab/forbidden_question_set) | Safety | Curated dataset of forbidden questions across high-risk categories. |
 | [LLM Jailbreak + Safety Data](https://www.kaggle.com/datasets/llm-jailbreak-safety) | Jailbreak | ~10K fine-tuning examples and ~3K adversarial prompts for chatbot safety. |

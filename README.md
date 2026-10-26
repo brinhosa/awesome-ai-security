@@ -256,6 +256,7 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [Speakeasy control plane](https://github.com/speakeasy-api/gram) | [Speakeasy](https://github.com/speakeasy-api) | MCP gateway with policy-based tool access and audit logs for agent activity. |
 
 ---
 

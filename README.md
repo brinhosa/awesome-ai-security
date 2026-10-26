@@ -233,6 +233,7 @@ This repository covers:
 | [Phoenix](https://phoenix.arize.com/) | [Arize AI](https://arize.com/) | Open-source eval/monitoring. |
 | [Helicone](https://www.helicone.ai/) | [Helicone](https://www.helicone.ai/) | Proxy-based logging & analytics. |
 | [Dynatrace Davis AI](https://www.dynatrace.com/) | [Dynatrace](https://www.dynatrace.com/) | AI-driven root cause analysis with multidimensional baselining and predictive analytics. |
+| [AEGIS](https://github.com/antropos17/Aegis) | [antropos17](https://github.com/antropos17) | Windows-first local AI-agent monitoring, security reviews and explicitly configured action controls. |
 
 ---
 

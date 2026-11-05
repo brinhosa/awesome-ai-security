@@ -256,6 +256,7 @@ This repository covers:
 | Name | Author | Description |
 | ---- | ------ | ----------- |
 | [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) | [Lasso Security](https://lasso.security/) | First security-centric open-source solution for Model Context Protocol. |
+| [Dctify MCP Config Checker](https://dctify.com/tools/mcp-config-checker) | [Dctify](https://dctify.com) | Free web tool auditing MCP client configs for risky servers: permissions, prompt-injection surface, supply-chain flags. No signup. |
 
 ---
 

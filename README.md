@@ -134,6 +134,7 @@ This repository covers:
 | HackAPrompt | [HackAPrompt 1.0](https://www.hackaprompt.com/) | Prompt hacking competition. |
 | HackAPrompt | [HackAPrompt 2.0](https://www.hackaprompt.com/) | Large-scale red-teaming hackathon. |
 | AI Village | [DEF CON AI CTF](https://www.kaggle.com/competitions/ai-village-ctf) | Annual LLM security CTF. |
+| Rishabh Pande | [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) | MIT local lab with six synthetic memory-poisoning cases, a scripted agent and runnable recall/repair regression tests. |
 
 ---
 

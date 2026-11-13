@@ -172,6 +172,7 @@ This repository covers:
 ## 🛡️ Defense & Guardrails
 | Name | Author | Description |
 | ---- | ------ | ----------- |
+| [Heisto Guard Checker](https://huggingface.co/spaces/heisto/guard-checker) | [Heisto](https://github.com/heisto-dev) | Open-source browser client for a public heuristic prompt-injection API; verdicts, categories and raw JSON. First filter, not a full defense. |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | [NVIDIA](https://github.com/NVIDIA) | Programmable input/output/dialog/retrieval/execution controls. |
 | [LLM Guard](https://github.com/protectai/llm-guard) | [Protect AI](https://protectai.com/) | Runtime scanning, PII redaction, content filtering. |
 | [LocalMod](https://github.com/KOKOSde/localmod) | [KOKOSde](https://github.com/KOKOSde) | Self-hosted content moderation with prompt injection, toxicity, PII, and NSFW detection. 100% offline. |
